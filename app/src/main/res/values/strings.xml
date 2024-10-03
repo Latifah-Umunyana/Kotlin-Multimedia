@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Multimedia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="games_fragment">GAMES_FRAGMENT</string>
+    <string name="profile_fragment">PROFILE_FRAGMENT</string>
+    <string name="settings_fragment">SETTINGS_FRAGMENT</string>
+    <string name="home_fragment">HOME_FRAGMENT</string>
+    <string name="home">Home</string>
+    <string name="games">Games</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+</resources>
